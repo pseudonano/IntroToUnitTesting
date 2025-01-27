@@ -4,6 +4,7 @@
  * {@link Demo#main(String[])} and 
  * {@link Demo#isTriangle(double, double, double)}).
  */
+@Test
 public class DemoTest {
 	String input = "1\n";
 	
